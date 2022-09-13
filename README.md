@@ -16,7 +16,7 @@ Please comment line 234-239 in the original package of torchxrayvision/models.py
 ```
 To run the training code:
 ```
-. ./script/train.sh
+../script/train.sh
 ```
 We provide the csv files under ./dataset. 
 As all data in GbP are sampled from NIH ChestX-ray14 dataset, 
