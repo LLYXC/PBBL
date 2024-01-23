@@ -39,8 +39,6 @@ Pseudo_bias_balanced_learning
         |———00015284_002.png
 ```
 
-
-
-
+For code and data related to Ada-ABC, please refer to https://github.com/LLYXC/Ada-ABC
 
 
